@@ -44,3 +44,7 @@
   .friend__name{
     opacity: 0.7;
   }
+
+  friend__add-btn i{
+    opacity: 0.7;
+  }
