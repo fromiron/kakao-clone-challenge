@@ -20,7 +20,7 @@
 }
 
 .chat-screen {
-    background-image: url("/src/chatBg.png");
+    background-image: url("https://github.com/fromiron/kakao-clone-challenge/blob/gh-pages/src/chatbg.png");
     min-height: 100vh;
 }
 
